@@ -1,0 +1,13 @@
+*~
+*#
+unit_tests*
+libmy.a
+*.o
+*.out
+coding-style-reports.log
+settings.json
+.vscode/
+.vs/
+*gcno
+*gcda
+main.c
