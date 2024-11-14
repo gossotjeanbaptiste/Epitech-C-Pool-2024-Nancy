@@ -2,4 +2,4 @@
 Code (parfois non fonctionnel) de la piscine C Epitech 2024.
 
 Grade A pour la Première partie
-Grade ? pour la Seconde partie
+Grade D pour la Seconde partie
